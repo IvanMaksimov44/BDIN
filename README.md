@@ -1,0 +1,2 @@
+# BDIN
+Basic Divergence Indicator
