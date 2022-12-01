@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"diffEditor.maxFileSize": 0,
+		"notebook.output.textLineLimit": 1000
+	}
 }
